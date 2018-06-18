@@ -31,6 +31,7 @@ Our main goal was to reduce manual annotation time and because of our customizat
 	h. Proceed annotationg all images. <br>
 	i. If you have drawn a wrong bounding box, you can simply press "a" to load previous image.<br>
 	j. Press "d" to skip annotating current image and go to next image. <br>
+	k. Use "s" to activate annotation tool after you use the keys "a" or "d" to navigate through the images.
 
 4. Updating AnnotationToolSingleObjectConfig.xml<br>
         Modify the parameters in config tag before starting the exe.<br>
